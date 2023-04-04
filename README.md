@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Slalom Build**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning about **Learning Effectively**
 
 - 📝 I regularly write articles on [https://devunleashed.com/](https://devunleashed.com/)
 
