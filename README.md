@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Terraform**
 
-- 💬 Ask me about **Angular, React, C#, Next.js, Tailwind, Typescript, Docker**
+- 💬 Ask me about **Angular, React, C#, Next.js, Tailwind, Typescript, Docker, AWS, Azure**
 
 - 📫 How to reach me **allan.ferencz@outlook.com**
 
