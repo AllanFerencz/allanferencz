@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
-- 🔭 I’m currently working at **Slalom Build**
+- 🔭 I’m currently working at **Caylent**
 
-- 🌱 I’m currently learning about **Learning Effectively**
+- 🌱 I’m currently learning about **Terraform**
 
-- 📝 I regularly write articles on [https://devunleashed.com/](https://devunleashed.com/)
+- 💬 Ask me about **Angular, React, C#, Next.js, Tailwind, Typescript, Docker**
 
-- 💬 Ask me about **Angular, React, C#**
-
-- 📫 How to reach me **allan.ferencz@devunleashed.com**
+- 📫 How to reach me **allan.ferencz@outlook.com**
 
 - ⚡ Fun fact **I can juggle :D**
 
